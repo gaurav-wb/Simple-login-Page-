@@ -10,7 +10,15 @@ body {
 }
 
 
-
+footer {
+    position: absolute;
+    bottom: 15px;
+    width: 100%;
+    text-align: center;
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.5);
+    letter-spacing: 1px;
+}
 
 .container {
     width: 400px;
